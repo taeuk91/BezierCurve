@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class QuadraticBezier : MonoBehaviour
+public class QuadraticBeziers : MonoBehaviour
 {
     [Header("Positions")]
     public Transform posA;

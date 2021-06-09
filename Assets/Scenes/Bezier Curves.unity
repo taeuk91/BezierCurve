@@ -326,7 +326,7 @@ GameObject:
   - component: {fileID: 108678218}
   - component: {fileID: 108678217}
   m_Layer: 0
-  m_Name: Quadratic Bezier Manager
+  m_Name: Quadratic Beziers Manager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -379,7 +379,7 @@ GameObject:
   - component: {fileID: 169420104}
   - component: {fileID: 169420103}
   m_Layer: 0
-  m_Name: 'Cubic Bezier Manager '
+  m_Name: 'Cubic Beziers Manager '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
